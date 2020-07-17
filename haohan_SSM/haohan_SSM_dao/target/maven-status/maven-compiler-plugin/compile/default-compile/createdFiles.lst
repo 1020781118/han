@@ -1,0 +1,8 @@
+com\haohan\ssm\dao\ProductDao.class
+com\haohan\ssm\dao\RoleDao.class
+com\haohan\ssm\dao\UserDao.class
+com\haohan\ssm\dao\PermissionDao.class
+com\haohan\ssm\dao\TravellerDao.class
+com\haohan\ssm\dao\SysLogDao.class
+com\haohan\ssm\dao\MemberDao.class
+com\haohan\ssm\dao\OrdersDao.class

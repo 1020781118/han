@@ -1,0 +1,8 @@
+com\haohan\ssm\domain\Member.class
+com\haohan\ssm\domain\Permission.class
+com\haohan\ssm\domain\UserInfo.class
+com\haohan\ssm\domain\Role.class
+com\haohan\ssm\domain\Traveller.class
+com\haohan\ssm\domain\SysLog.class
+com\haohan\ssm\domain\Orders.class
+com\haohan\ssm\domain\Product.class
